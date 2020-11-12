@@ -1,1 +1,3 @@
-# Food Ordering Webpage with check out cart using VUE JAVASCRIPT, HTML CSS
+# Food Order Webpage 
+Food Ordering Webpage with check out cart using VUE JAVASCRIPT, HTML CSS
+
